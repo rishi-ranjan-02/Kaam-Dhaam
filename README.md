@@ -38,7 +38,7 @@
 
 ## *WEBSITE DEMO*
 
-![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
+![Screenshot (771)](https://github.com/rishi-ranjan-02/Kaam-Dhaam/blob/main/assets/demo1.png)
 
 ![Screenshot (772)](https://user-images.githubusercontent.com/61280281/99399731-0da20380-290c-11eb-8a59-e0a2e5f9b19f.png)
 
